@@ -1,0 +1,114 @@
+body{
+    background: #f5f5f5;
+}
+
+div.row{
+    width: 98%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.img-responsive{
+    width: 100%;
+    height: auto;
+}
+.container{
+    padding: 5px;
+    background: #fff;
+    box-shadow: 0 0 .6em #ddd;
+}
+ul.nav-links{
+    margin: 4px;
+    list-style: none;
+    display: flex;
+    align-content: center;
+    justify-content: space-around;
+}
+ul.nav-links li{
+    text-align: center;
+    padding: 10px;
+    background: #fff;
+    color: #000;
+}
+ul.nav-links li a{
+    text-decoration: none;
+    color: #000;
+    font-size: 20px;
+}
+ul.nav-links li:hover{
+    box-shadow: 0 0 .3em #ddd;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Fjalla One', sans-serif;
+}
+p,i,div,li,tr{
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+.row{
+    margin-top: 30px;
+}
+.links-container{
+    padding: 0px;
+    margin-top: 5px;
+}
+.product-floor{
+    background: #fff;
+    box-shadow: 0 0 .6em #ddd;
+    padding: 10px;
+    margin-top: 10px;
+}
+div.product-floor-header{
+    display: flex;
+    justify-content: space-between;
+}
+div.product-floor-header h3{
+    margin: 50px;
+}
+div.product-floor-header a{
+    text-decoration: none;
+    color:green;
+}
+div.old-price{
+    text-decoration: line-through;
+}
+
+div.product{
+    padding: 70px;
+    text-align: center;
+    width: 200px;
+    background: #fff;
+    box-shadow: 0 0 .3em #ddd;
+    height: 300px;
+    margin-bottom: 14px;
+	float:right;
+}
+.product-image-section{
+    height: 70%;
+    
+}
+.product-image-section img{
+    width: 80%;
+    margin-top: 50%;
+    margin-left: 50%;
+    transform: translate(-50%,-50%);
+}
+h6.name{
+    margin:0px;
+    text-overflow: ellipsis;
+}
+.add-cart button{
+    cursor: pointer;
+    border:none;
+    padding: 10px 15px;
+    background:orangered;
+    color:#fff;
+    font-size: 17px;
+    letter-spacing: 1px;
+}
+.product-floor-body{
+    display: flex; flex-flow: row wrap;justify-content: space-around;
+}
+.product-floor-body a{
+    text-decoration: none;
+    color:grey;
+    font-size: 15px;
+}

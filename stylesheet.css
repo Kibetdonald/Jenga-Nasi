@@ -1,0 +1,87 @@
+
+.navigation{
+	margin-top: 8px;
+
+	
+}
+.top-wrapper{
+    background-color: #343a40;
+    height: 32px;
+    margin-top: 0px;
+}
+.top-text p{
+    font-size: 18px;
+    margin-left: 30px;
+    color: #fff;
+}
+.navigation h1{
+	font-style: italic;
+	font-size: 24px;
+    margin-top: -20px;
+	margin-left: 50px;
+
+
+}
+.nav-links{
+    font-size: 20px;
+    color: black;
+    padding-left: 27px;
+}
+.site-nav{
+    margin-top: -127px;
+  
+    border: 1px solid rgba(0, 0, 0, 0.125);
+margin-left: 270px;
+
+}
+.nav-search{
+    margin-left: 50px;
+    margin-top: 4px;
+}
+
+.search-btn{
+    background-color: #343a40;
+    width: 70px;
+    color: #fff;
+    height: 32px;
+}
+.slider-caption{
+    margin-top: 240px;
+
+}
+.qty{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.search-area{
+    height: 32px;
+    width: 160px;
+}
+.login{
+    margin-left: 850px;
+    color: black;
+    margin-top: -50px;
+    font-size: 24px;
+}
+.Help{
+    margin-left: 950px;
+    margin-top: -35px;
+    font-size: 24px;
+    color: black;
+    text-decoration: none;
+}
+.Help :hover{
+   color:#343a40 ;
+}
+.Cart{
+    margin-left:40px;
+    color: black;
+   
+    font-size: 24px;
+}
+.wishlist{
+    margin-left: 30px;
+    color: black;
+   
+    font-size: 24px;
+}

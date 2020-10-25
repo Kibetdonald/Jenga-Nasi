@@ -1,0 +1,377 @@
+
+
+    .product_title{
+    color:#000;
+    padding:5px 0 5px 0;
+    font-weight:bold;
+    }
+    .product_title a{
+    text-decoration:none;
+    color:#000;
+    padding:5px 0 5px 0;
+    font-weight:bold;
+    }
+    .product_title a:hover{
+    color:#064E;
+    }
+    .product_img{
+    padding:5px 0 5px 0;
+    }
+    .prod_price{
+    padding:5px 0 5px 0;
+    }
+    span.reduce{
+    color:#999999;
+    text-decoration:line-through;
+    }
+    span.price{
+    color:#000;
+    }
+    /*----------newsletter--------------*/
+    
+    /*center content--------------------------*/
+    .center_content{
+    width:666px;
+    float:left;
+    padding:5px 10px;
+    }
+    .center_title_bar{
+    width:520px;
+    height:33px;
+    float:left;
+    padding:0 0 0 40px;
+    margin:0 0 0 12px;
+    line-height:33px;
+    font-size:12px;
+    color:#847676;
+    font-weight:bold;
+    background:url(images/bar_bg.gif) no-repeat center;
+    }
+    
+    /*----------------------right content--------------*/
+    .right_content{
+    width:270px;
+    float:left;
+    padding:5px 0 0 0;
+    }
+    .shopping_cart{
+    width:195px;
+    height:84px;
+    text-align:center;
+    background:url(images/cart_bg.gif) no-repeat center;
+    }
+    .cart_title{
+    font-size:12px;
+    font-size:12px;
+    color:#847676;
+    font-weight:bold;
+    padding:8px 0 0 0;
+    }
+    .cart_details{
+    width:115px;
+    float:left;
+    padding:5px 0 0 15px;
+    text-align:left;
+    }
+    .cart_icon{
+    float:left;
+    padding:5px 0 0 5px;
+    }
+    span.border_cart{
+    width:100px;
+    height:1px;
+    margin:3px 0 3px 0;
+    display:block;
+    border-top:1px #999999 dashed;
+    }
+    .prod_boxes{
+    width:173px;
+    height:auto;
+    float:center;
+
+    padding:10px 10px 10px 11px ;
+    }
+    
+    .top_prod_box{
+    width:173px;height:12px;background:url(images/product_box_top.gif) no-repeat center bottom;float:left; padding:0px; margin:0px;
+    }
+    .bottom_prod_box{
+    width:173px;height:12px;background:url(images/product_box_bottom.gif) no-repeat center top;float:left;padding:0px; margin:0px;
+    }
+    .center_prod_box{
+    width:173px;height: auto;background:url(images/product_box_center.gif) repeat-y;float:left; text-align:center;padding:0px; margin:0px;
+    }
+    .prod_details_tab{
+    width:173px;
+    height:31px;
+    float:left;
+    background:url(images/products_details_bg.gif) no-repeat center;
+    margin:3px 0 0 0;
+    }
+    
+    
+    .yote{
+        padding: 20px;
+    }
+    /*---------prod_box----------*/
+    .prod_box{
+    width:230px;
+    height:auto;
+    float:right;
+
+    padding:20px ;
+    }
+    .top_prod_box{
+    width:173px;height:40px;background:url(images/product_box_top.gif) no-repeat center bottom;float:left; padding:0px; margin:0px;
+    }
+    .bottom_prod_box{
+    width:173px;height:12px;background:url(images/product_box_bottom.gif) no-repeat center top;float:left;padding:0px; margin:0px;
+    }
+    .center_prod_box{
+    width:173px;height: auto;background:url(images/product_box_center.gif) repeat-y;float:left; text-align:center;padding:0px; margin:0px;
+    }
+    
+    
+    .prod_details_tab{
+    width:173px;
+    height:31px;
+    float:left;
+    background:url(images/products_details_bg.gif) no-repeat center;
+    margin:3px 0 0 0;
+    }
+    img.left_bt{
+    float:left;
+    padding:6px 0 0 6px;
+    }
+    a.prod_details{
+    width:25px;
+    display:block;
+    float:left;
+    background:url(images/square-blue-add.gif) no-repeat left;
+    padding:0 0 0 20px;
+    margin:7px 0 0 38px;
+    text-decoration:none;
+    color:green;
+    }
+    /*---------prod_box_big----------*/
+    .prod_box_big{
+    width:554px;
+    height:auto;
+    float:right;
+    padding:10px 10px 10px 15px;
+    }
+    .top_prod_box_big{
+    width:554px;height:12px;background:url(images/details_box_top.gif) no-repeat center bottom;float:left; padding:0px; margin:0px;
+    }
+    .bottom_prod_box_big{
+    width:554px;height:12px;background:url(images/details_box_bottom.gif) no-repeat center top;float:left;padding:0px; margin:0px;
+    }
+    .center_prod_box_big{
+    width:554px;height: auto;background:url(images/details_box_center.gif) repeat-y;float:left; text-align:center;padding:0px; margin:0px;
+    }
+    .product_img_big{
+    width:170px;
+    padding:5px 0 5px 10px;
+    float:left;
+    }
+    .details_big_box{
+    width:345px;
+    height:400px;
+    float:left;
+    padding:0 0 0 328px;
+    text-align:left;
+    }
+    .product_title_big{
+    columns: #000000;;
+    padding:5px 0 5px 20;
+    font-weight:bold;
+    font-size:14px;
+    }
+    .specifications{
+    font-size:12px;
+    font-weight:bold;
+    line-height:18px;
+    margin-left: 20px;
+    }
+    .thumbs{
+    padding:8px 5px 8px 5px;
+    border:1px #DFD1D1 solid;
+    margin:3px 0 0 0;
+    }
+    .thumbs a{
+    padding:3px;
+    }
+    .prod_price_big{
+    padding:5px 0 5px 0;
+    font-size:16px;
+    }
+    span.reduce{
+    color:#999999;
+    text-decoration:line-through;
+    }
+    span.price{
+    color:#000;
+    padding:5px 0 5px 20;
+    }
+    a.addtocart{
+    width:210px;
+    height:40px;
+    display:block;
+    margin-left: 20px;
+    margin-right: 70px;
+    color: #fff;
+        float:left;
+    background-color: 343a40;
+       
+    padding:0 0 0 33px;
+    text-decoration:none;
+    line-height:27px;
+    
+    }
+    a.compare{
+    width:76px;
+    height:27px;
+    display:block;
+    float:left;
+    margin:0 0 0 10px;
+    background:url(images/compare.gif) no-repeat left;
+    padding:0 0 0 33px;
+    text-decoration:none;
+    line-height:27px;
+    color:#1c4a52;
+    }
+    span.blue{
+    color:#5F9FAB;
+    }
+    /*---------------contact_form------------------*/
+    .contact_form{
+    width:355px;
+    float:left;
+    padding:0px 0 0 75px;
+    }
+    .form_row{
+    width:335px;
+    clear:both;
+    padding:10px 0 10px 0;
+    color:#a53d17;
+    }
+    label.contact{
+    width:75px;
+    float:left;
+    font-size:12px;
+    text-align:right;
+    padding:4px 5px 0 0;
+    color: #333333;
+    }
+    input.contact_input{
+    width:253px;
+    height:18px;
+    background-color:#fff;
+    color:#999999;
+    border:1px #DFDFDF solid;
+    float:left;
+    }
+    textarea.contact_textarea{
+    width:253px;
+    height:50px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:12px;
+    color: #999999;
+    background-color:#fff;
+    border:1px #DFDFDF solid;
+    float:left;
+    }
+    a.contact{
+    width:99px;
+    height:27px;
+    display:block;
+    float:right;
+    margin:0 0 0 10px;
+    background:url(images/contact_bt.gif) no-repeat left;
+    padding:0 0 0 10px;
+    text-decoration:none;
+    line-height:27px;
+    color:#1c4a52;
+    }
+    
+    user-menu{
+    background:red;
+     color:white;
+     position: absolute;
+     top:-5px;
+     left:-25px;
+     padding: 1px 3px 1px 3px;
+    
+    
+    }
+   
+   
+    .searchbar {
+        position: relative;
+        min-width: 50px;
+        width: 0%;
+        height: 50px;
+        float: right;
+        overflow: hidden;
+        -webkit-transition: width 0.3s;
+        -moz-transition: width 0.3s;
+        -ms-transition: width 0.3s;
+        -o-transition: width 0.3s;
+        transition: width 0.3s
+    }
+   
+    .searchbar-input {
+        top: 0;
+        right: 0;
+        border: 0;
+        outline: 0;
+        background: #6200EA;
+        width: 100%;
+        height: 50px;
+        margin: 0;
+        padding: 0px 55px 0px 20px;
+        font-size: 20px;
+        color: #fff
+    }
+   
+    .searchbar-input::-webkit-input-placeholder {
+        color: #fff
+    }
+   
+    .searchbar-input:-moz-placeholder {
+        color: #fff
+    }
+   
+    .searchbar-input::-moz-placeholder {
+        color: #fff
+    }
+   
+    .searchbar-input:-ms-input-placeholder {
+        color: #fff
+    }
+   
+    .searchbar-icon,
+    .searchbar-submit {
+        width: 50px;
+        height: 50px;
+        display: block;
+        position: absolute;
+        top: 0;
+        font-family: verdana;
+        font-size: 22px;
+        right: 0;
+        padding: 0;
+        margin: 0;
+        border: 0;
+        outline: 0;
+        line-height: 50px;
+        text-align: center;
+        cursor: pointer;
+        color: #fff;
+        background: #6200EA;
+        border-left: 1px solid white
+    }
+   
+    .searchbar-open {
+        width: 100%
+    }
